@@ -109,7 +109,7 @@ The same functions are available on site: the user navigates options on the LCD 
 
 | Name                 | LinkedIn                                                                 |
 |----------------------|--------------------------------------------------------------------------|
-| Rawan Khaled         |                                                                          |
+| Rawan Khaled         | [Profile](https://www.linkedin.com/in/rawan-khaled-72447032b)            |
 | Waad Rabie           | [Profile](https://www.linkedin.com/in/waad-rabie-592829273/)             |
 | Nour Sameh           | [Profile](https://www.linkedin.com/in/nour-sameh-/)                      |
 | Nour Ayman Zaghloul  | [Profile](https://www.linkedin.com/in/nour-ayman-zaghloul-naz/)          |
